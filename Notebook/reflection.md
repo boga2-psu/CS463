@@ -69,8 +69,23 @@ exercise that was particularly helpful?__
 topic a little better?__  
   
     &nbsp;&nbsp;&nbsp;&nbsp;I think that this exercise covered flexbox well.
-
-
+<!---------------------------------------------------------------------------------------------->
+### Lab 5 - Grid
+* __Were you able to complete the exercises on your own or did you use the
+videos or the solutions for help?__  
+  
+    &nbsp;&nbsp;&nbsp;&nbsp;I completed the solutions on my own, just referencing the slides.
+* __How helpful did you find the exercises in this section? Was there one
+exercise that was particularly helpful?__  
+  
+    &nbsp;&nbsp;&nbsp;&nbsp;The exercises made me feel profficient with CSS grid. They were both helpful in different ways, the first exercise got me used to the basics and the second let me apply it in a real setting.
+* __Was there something that you wish had been explained better?__  
+  
+    &nbsp;&nbsp;&nbsp;&nbsp;No, everything was clear.
+* __Were there other exercises that might have helped you learn this week’s
+topic a little better?__  
+  
+    &nbsp;&nbsp;&nbsp;&nbsp;I think this covered CSS grid well.
 
 <!---------------------------------------------------------------------------------------------->
 <!--
