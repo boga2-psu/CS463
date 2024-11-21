@@ -88,6 +88,40 @@ topic a little better?__
     &nbsp;&nbsp;&nbsp;&nbsp;I think this covered CSS grid well.
 
 <!---------------------------------------------------------------------------------------------->
+### Lab 6 - Bootstrap
+* __Were you able to complete the exercises on your own or did you use the
+videos or the solutions for help?__  
+  
+    &nbsp;&nbsp;&nbsp;&nbsp;I had to use the solutions for the first exercise because I couldn't figure out how to get the grey box under the header.
+* __How helpful did you find the exercises in this section? Was there one
+exercise that was particularly helpful?__  
+  
+    &nbsp;&nbsp;&nbsp;&nbsp;All of the exercises were a very useful intro into bootstrap.
+* __Was there something that you wish had been explained better?__  
+  
+    &nbsp;&nbsp;&nbsp;&nbsp;No the instructions were clear.
+* __Were there other exercises that might have helped you learn this week’s
+topic a little better?__  
+  
+    &nbsp;&nbsp;&nbsp;&nbsp;Not that I can think of.
+<!---------------------------------------------------------------------------------------------->
+### Lab 7 - Javascript
+* __Were you able to complete the exercises on your own or did you use the
+videos or the solutions for help?__  
+  
+    &nbsp;&nbsp;&nbsp;&nbsp;I definitely used the solutions for most of the exercises at least partially.
+* __How helpful did you find the exercises in this section? Was there one
+exercise that was particularly helpful?__  
+  
+    &nbsp;&nbsp;&nbsp;&nbsp;Very helpful! Even using the soltions for help I learned a lot about putting javascript into practice.
+* __Was there something that you wish had been explained better?__  
+  
+    &nbsp;&nbsp;&nbsp;&nbsp;Everything was explained well without giving away the answers outright, I liked that we had a format for what the output should look like. 
+* __Were there other exercises that might have helped you learn this week’s
+topic a little better?__  
+  
+    &nbsp;&nbsp;&nbsp;&nbsp;Nothing, having the solutions was perfect for helping me complete the exercises while learning the material.
+<!---------------------------------------------------------------------------------------------->
 <!--
 ### Lab 
 * __Were you able to complete the exercises on your own or did you use the
