@@ -122,21 +122,19 @@ topic a little better?__
   
     &nbsp;&nbsp;&nbsp;&nbsp;Nothing, having the solutions was perfect for helping me complete the exercises while learning the material.
 <!---------------------------------------------------------------------------------------------->
-<!--
-### Lab 
+### Lab 8 - jQuery
 * __Were you able to complete the exercises on your own or did you use the
 videos or the solutions for help?__  
   
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp; I did have to use the solutions heavily for this lab. I defintely gave it a good effort, but it never quite worked right.
 * __How helpful did you find the exercises in this section? Was there one
 exercise that was particularly helpful?__  
   
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;Both exercises were very helpful with getting me more comfortable with jQuery vs javascript.
 * __Was there something that you wish had been explained better?__  
   
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;I mostly struggled with the differences between jQuery and javascript, which led to a lot of small errors.
 * __Were there other exercises that might have helped you learn this week’s
 topic a little better?__  
   
-    &nbsp;&nbsp;&nbsp;&nbsp;
--->
+    &nbsp;&nbsp;&nbsp;&nbsp;I think that this was a very good intro to jQuery.
